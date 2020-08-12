@@ -1,1 +1,4 @@
+- [7월 회고](https://isholiday.tistory.com/21) - Aug 03, 2020<br>
+- [웹 초보의 인프라 키워드 알아보기](https://isholiday.tistory.com/19) - Aug 01, 2020<br>
+- [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술(김영한)](https://isholiday.tistory.com/18) - Jul 28, 2020<br>
 - [20200716](https://isholiday.tistory.com/14) - Jul 16, 2020<br>
