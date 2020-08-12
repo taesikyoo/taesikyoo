@@ -1,4 +1,8 @@
-# <div align="center">안녕하세요!👩‍💻</div>
+# <div align="center">Hello!👩‍💻</div>
+
+## My Blog
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
 ## Wakatime
 <!--START_SECTION:waka-->
