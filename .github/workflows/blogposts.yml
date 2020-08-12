@@ -1,0 +1,26 @@
+name: Latest blog post workflow
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every day at 3pm UTC (11pm SG)
+    - cron: '0 15 * * *'
+
+jobs:
+  update-readme-with-blog:
+    name: Update with latest blog post
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Get RSS Feed
+        uses: kohrongying/readme-the-rss@master
+        with:
+          feed_url: http://isholiday.tistory.com/rss
+          count: 5
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: taesikyoo
+          author_email: yrns0907@gmail.com
+          message: 'Update readme'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
