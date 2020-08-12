@@ -4,17 +4,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 175 Contributions in year 2020
- > 
-> 📦 Used 4.5 kB in GitHub's Storage 
- > 
-> 🚫 Not opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 2 Owned Private Repositories 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-92505%20Lines%20of%20code-blue)
 
 **I'm a night 🦉** 
 
@@ -47,13 +37,7 @@ Sunday       49 commits     ███████░░░░░░░░░░�
 💬 Languages: 
 No Activity tracked this Week
 
-🔥 Editors: 
-No Activity tracked this Week
-
 🐱‍💻 Projects: 
-No Activity tracked this Week
-
-💻 Operating Systems: 
 No Activity tracked this Week
 
 ```
@@ -69,10 +53,6 @@ Shell                    1 repos             ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/taesikyoo/taesikyoo/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
