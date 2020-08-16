@@ -40,11 +40,11 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-352-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-360-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-172063%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-130905%20Lines%20of%20code-blue)
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.14% 
@@ -53,7 +53,7 @@
 🌙 Night      32 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.29%
 
 ```
-📅 **I'm Most Productive on Sundays** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
@@ -67,12 +67,12 @@ Sunday       49 commits     ███████░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Seoul
+⌚︎ Time zone: Asia/Seoul
 
-💬 Languages: 
+💬 Programming Languages: 
 Java                     3 hrs 37 mins       ████████████░░░░░░░░░░░░░   47.5% 
 YAML                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.46% 
 Markdown                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.98% 
@@ -88,7 +88,7 @@ border-collie            14 mins             ░░░░░░░░░░░�
 
 ```
 
-**I mostly code in Java** 
+**I Mostly Code in Java** 
 
 ```text
 Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
