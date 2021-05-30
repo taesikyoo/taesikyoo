@@ -46,7 +46,7 @@
 ⌚︎ Time Zone: Asia/Seoul
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 6 mins         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
