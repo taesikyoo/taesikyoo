@@ -10,9 +10,9 @@
 
 |Domain|Examples|
 |---|---|
-|Backend|![Java](https://img.shields.io/badge/java-green?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white)  |
+|Backend|![Java](https://img.shields.io/badge/java-green?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-green?style=for-the-badge&logo=kotlin&logoColor=white) |
 |Frontend| ![Js](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white) |
-|DevOps|![GA](https://img.shields.io/badge/Github_Actions-purple?style=for-the-badge&logo=github) ![Docker](https://img.shields.io/badge/Docker-purple?style=for-the-badge&logo=docker&logoColor=white)  |
+|DevOps|![Docker](https://img.shields.io/badge/Docker-purple?style=for-the-badge&logo=docker&logoColor=white) ![k8s](https://img.shields.io/badge/Kubernetes-purple?style=for-the-badge&logo=Kubernetes&logoColor=white) ![GA](https://img.shields.io/badge/Github_Actions-purple?style=for-the-badge&logo=github) |
 |Cloud Platforms|![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws) |
 
 
