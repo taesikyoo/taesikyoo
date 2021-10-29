@@ -2,8 +2,8 @@
 
 ### 😄 About me
 * 유태식(Taesik Yoo)
-* 웹 개발자가 되기 위해 공부하고 있어요.📝 
-* 자바, 스프링을 공부하고 있고 백엔드 개발에 관심이 있어요.🕸
+* 프로그래밍을 통해 세상의 문제를 해결하고자 합니다.
+* 자바, 스프링을 사용하는 1년차 백엔드 개발자입니다.
 
 ### 🌱 I’m currently learning
 아래와 같은 것들에 관심이 있습니다.
@@ -29,14 +29,6 @@
 [Facebook](https://www.facebook.com/yootsets)
 
 ---
-
-## My Blog
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
-- [7월 회고](https://isholiday.tistory.com/21) - Aug 03, 2020<br>
-- [웹 초보의 인프라 키워드 알아보기](https://isholiday.tistory.com/19) - Aug 01, 2020<br>
-- [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술(김영한)](https://isholiday.tistory.com/18) - Jul 28, 2020<br>
-- [20200716](https://isholiday.tistory.com/14) - Jul 16, 2020<br>
 
 ## Wakatime
 <!--START_SECTION:waka-->
