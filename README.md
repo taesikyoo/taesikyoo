@@ -36,15 +36,14 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Seoul
+🕑︎ Time Zone: Asia/Seoul
 
 🐱‍💻 Projects: 
 No Activity Tracked This Week
-
 ```
 
 
- Last Updated on 21/02/2023 22:07:46 UTC
+ Last Updated on 22/02/2023 22:06:41 UTC
 <!--END_SECTION:waka-->
 
 ---
