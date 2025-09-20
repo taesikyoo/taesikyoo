@@ -31,19 +31,8 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2016%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 19/09/2025 22:09:48 UTC
+ Last Updated on 20/09/2025 22:08:24 UTC
 <!--END_SECTION:waka-->
 
 ---
