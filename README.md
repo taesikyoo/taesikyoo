@@ -31,8 +31,6 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%2016%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -43,7 +41,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/01/2026 22:11:10 UTC
+ Last Updated on 02/01/2026 22:11:36 UTC
 <!--END_SECTION:waka-->
 
 ---
