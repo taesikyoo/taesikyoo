@@ -31,17 +31,8 @@
 
 ## Wakatime
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 02/01/2026 22:11:36 UTC
+ Last Updated on 03/01/2026 22:10:51 UTC
 <!--END_SECTION:waka-->
 
 ---
